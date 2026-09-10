@@ -4,10 +4,6 @@ body {
     font-family: 'Arial Black';
 }
 
-object {
-    width: 100%;
-}
-
 header {
     text-align: center;
     height: 50px;
@@ -26,6 +22,5 @@ header a{
 }
 
 header img{
-    height: 100%;
-    
+    height: 90%;
 }
