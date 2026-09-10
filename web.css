@@ -1,1 +1,31 @@
-body{background-color:red}
+body {
+    background-color: rgb(21, 20, 24);
+    color: white;
+    font-family: 'Arial Black';
+}
+
+object {
+    width: 100%;
+}
+
+header {
+    text-align: center;
+    height: 50px;
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px
+}
+
+header a{
+    margin-left: 10px;
+    margin-right: 10px;
+    color: white;
+
+}
+
+header img{
+    height: 100%;
+    
+}
